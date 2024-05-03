@@ -35,7 +35,7 @@ If the installation was successful, you should be able to run the following comm
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE farm_automation_server
+    $ git clone https://github.com/kashyapchecks/anmaya_farm_automation_server.git farm_automation_server
     $ cd farm_automation_server
     $ npm install
 
